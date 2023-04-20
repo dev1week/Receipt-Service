@@ -23,7 +23,7 @@
 
 **영수증 도메인 API 구축 `Django Rest Framework`**
 
-**⇒ [API](https://www.notion.so/App-api-9a1dca547ee5471cad284478f35c828e) **
+⇒ [API](https://www.notion.so/App-api-9a1dca547ee5471cad284478f35c828e) 
 
 **⇒  [Git](https://github.com/dev1week/Receipt-App-Server)**
 
