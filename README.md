@@ -38,11 +38,11 @@
 
 **⇒  [Git](https://github.com/dev1week/Reciept-React)**
 
-1. 연도별 필터링 기능 
-2. 필터링한 연도내 각 월별 비용 그래프 구현 
-3. 양식 입력창 숨기기 보이기 버튼 구현
-4. Django Rest Frame work api 연동 
-5. Multipart 이용 사진 전송 기능 구현 
+    1. 연도별 필터링 기능 
+    2. 필터링한 연도내 각 월별 비용 그래프 구현 
+    3. 양식 입력창 숨기기 보이기 버튼 구현
+    4. Django Rest Frame work api 연동 
+    5. Multipart 이용 사진 전송 기능 구현 
 
 **Docker 활용 네이버 클라우드 서버 플랫폼에서 배포 경험**
 
