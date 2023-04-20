@@ -3,7 +3,7 @@
 
 ![Untitled](https://s3://oceankeeper-image/Untitled.png)
 
-![Untitled](s3://oceankeeper-image/Untitled-2.png)
+![Untitled](https://oceankeeper-image.s3.ap-northeast-2.amazonaws.com/Untitled-2.png)
 
 네이버 클라우드 OCR을 활용하여 가계부 웹앱을 제작하였습니다. 
 
