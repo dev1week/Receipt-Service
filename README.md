@@ -22,7 +22,9 @@
 ### Role
 
 **영수증 도메인 API 구축 `Django Rest Framework`**
+
 **⇒ [API](https://www.notion.so/App-api-9a1dca547ee5471cad284478f35c828e) **
+
 **⇒  [Git](https://github.com/dev1week/Receipt-App-Server)**
 
 **네이버 클라우드에서 제공하는 OCR API 활용 및 Custom API 제작**
