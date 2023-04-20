@@ -1,9 +1,9 @@
 ### 소개
 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/98fb2e89-03a9-49b7-81f7-8eebf89dfe80/Untitled.png)
+![Untitled](https://s3://oceankeeper-image/Untitled.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d2d21a2-260f-4912-8c4d-230c19a9f76a/Untitled.png)
+![Untitled](s3://oceankeeper-image/Untitled-2.png)
 
 네이버 클라우드 OCR을 활용하여 가계부 웹앱을 제작하였습니다. 
 
