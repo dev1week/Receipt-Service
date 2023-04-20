@@ -22,10 +22,11 @@
 ### Role
 
 **영수증 도메인 API 구축 `Django Rest Framework`**
-
+**⇒ [API](https://www.notion.so/App-api-9a1dca547ee5471cad284478f35c828e) **
 **⇒  [Git](https://github.com/dev1week/Receipt-App-Server)**
 
-- **네이버 클라우드에서 제공하는 OCR API 활용 및 Custom API 제작**
+**네이버 클라우드에서 제공하는 OCR API 활용 및 Custom API 제작**
+
     1. 사진을 multipart로 전송 받는 로직 구현 
     2. 전송받은 사진 정보를 바탕으로 OCR API가 요구하는 요청에 맞도록  json body 생성 로직 구현 
     3. 네이버 클라우드 ocr api를 통해 분석된 내용을 Db에 저장하는 로직 구현
